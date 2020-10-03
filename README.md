@@ -1,4 +1,4 @@
-# **HOW TO USE DatabaseManagerAPI **
+# ** HOW TO USE DatabaseManagerAPI **
 
 > Version: 2.0.2 [Release]
 
